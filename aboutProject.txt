@@ -1,0 +1,3 @@
+The project is in first-person perspective and you can get the control after the animation. 
+The droplight would be turn on automatically when the camera gets close to it, and it would turn off when the camera leave away. 
+I used display lists to store the candlesticks, because the process to design it is complicated and would make the program slow.

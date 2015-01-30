@@ -1,0 +1,25 @@
+CSCI 4229/5229 - Schreuder - Computer Graphics
+Summer 2014
+University of Colorado Boulder
+Final Project review
+
+Originally by Zhili Yang
+
+
+
+---Examples----
+Build:
+make
+
+Clean:
+make clean
+
+Run finalProject
+./finalProject
+
+---Control---
+Cannot control the perspective when the animation is running. After the animation, you can use direction keys to control the movement:
+"up" and "down" can move toward and back, "left" and "right" can control the direction in horizontal.
+“t” or “T” can stop the animation when it is running.
+“c” or “C” can switch scenes.
+“o” or “O” can show the steps I did to design the objects.
